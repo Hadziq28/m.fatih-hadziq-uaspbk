@@ -1,0 +1,64 @@
+{
+  "menus": [
+    {
+      "id": "bd25",
+      "name": "Nasi Goreng",
+      "price": 15000,
+      "available": true,
+      "image": "https://images.deliveryhero.io/image/fd-my/LH/qs1l-hero.jpg",
+      "rating": 5
+    },
+    {
+      "id": "b1e2",
+      "name": "Mie Ayam",
+      "price": 13000,
+      "available": true,
+      "image": "https://tse3.mm.bing.net/th/id/OIP.wQXjkNNRV9nT2NkH7s4SSgHaFC?pid=Api&P=0&h=180",
+      "rating": 1
+    },
+    {
+      "id": "74c2",
+      "name": "Bubur Ayam",
+      "price": 10000,
+      "available": true,
+      "image": "https://hibur.id/wp-content/uploads/2022/05/Bubur-ayam.jpg",
+      "rating": 2
+    },
+    {
+      "id": "e5e1",
+      "name": "Mie Goreng",
+      "price": 11000,
+      "available": true,
+      "image": "https://tse3.mm.bing.net/th/id/OIP.tWqBHQWchpEq0w4fNTLJZgHaE7?pid=Api&P=0&h=180",
+      "rating": 3
+    }
+  ],
+  "orders": [
+    {
+      "id": 1751778338220,
+      "menuId": "bd25",
+      "name": "Nasi Goreng",
+      "price": 15000,
+      "qty": 1,
+      "total": 15000,
+      "date": "2025-07-06T05:05:38.221Z"
+    },
+    {
+      "id": 1751778350236,
+      "menuId": "bd25",
+      "name": "Nasi Goreng",
+      "price": 15000,
+      "qty": 5,
+      "total": 75000,
+      "date": "2025-07-06T05:05:50.236Z"
+    }
+  ],
+  "chats": [
+    {
+      "id": 1751781138191,
+      "username": "Fatih",
+      "message": "Nasi goreng ini enak",
+      "timestamp": "2025-07-06T05:52:18.191Z"
+    }
+  ]
+}
